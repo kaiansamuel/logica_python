@@ -11,3 +11,4 @@ while nota2 > 10 or nota2 < 0:
 media = (nota1 + nota2) / 2
 print('Media ', media)
 
+
